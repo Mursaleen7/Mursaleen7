@@ -18,7 +18,7 @@
 
 ---
 
-🔗 [Portfolio](https://github.com/Mursaleen7) • 📫 mursaleen.sakoskar@carleton.ca • 🌐 Ottawa, Canada  
+🔗 [Portfolio](https://github.com/Mursaleen7) • 📫 mursaleensakoskar@gmail.com   
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mursaleen7/Mursaleen7/output/github-snake-dark.svg" />
