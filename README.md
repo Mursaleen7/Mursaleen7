@@ -1,6 +1,6 @@
 # Hello World! I’m Mursaleen Sakoskar 👋🏼
 🎓 Final-year Computer Science student (Co-op) at Carleton University  
-💼 Co-founder & Technical Lead @ [Your Company Name] — building a Reddit-based product-reviews SaaS & Edge AI chip benchmarking service  
+💼 Currently building a Reddit-based product-reviews SaaS & Edge AI chip benchmarking service  
 🤖 Passionate about AI/ML infrastructure, neuromorphic computing, and scalable software systems  
 🌱 Currently exploring advanced ML benchmarks (e.g. NeuroBench) and quantum computing applications  
 
