@@ -1,4 +1,4 @@
-# Hello World! I’m Mursaleen Sakoskar 👋🏼
+# Hello Everyone! I’m Mursaleen Sakoskar 👋🏼
 🎓 Final-year Computer Science student (Co-op) at Carleton University  
 💼 Cureently building a Reddit-based product-reviews SaaS & Edge AI chip benchmarking service  
 🤖 Passionate about AI/ML infrastructure, neuromorphic computing, and scalable software systems  
