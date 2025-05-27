@@ -1,8 +1,8 @@
 # Hello Everyone! I’m Mursaleen Sakoskar 👋🏼
-🎓 Final-year Computer Science student (Cybersecurity) at Carleton University  
-💼 Currently building a Reddit-based product-reviews SaaS & Edge AI chip benchmarking service  
-🤖 Passionate about AI/ML infrastructure, neuromorphic computing, and scalable software systems  
-🌱 Currently exploring advanced ML benchmarks (e.g. NeuroBench) and quantum computing applications 
+🔐 Final-year CS (Cybersecurity) student at Carleton, sharpening offensive-security & cloud-hardening skills
+💻 Full-stack developer building RedditPulse (AI product-review SaaS) and a neuromorphic/edge-AI chip benchmarking platform
+🛠️ Enjoy architecting secure, scalable systems with Python | Rust | Go | TypeScript | Kubernetes | Terraform
+🧪 Currently diving into NeuroBench tasks, container escapes, and quantum-safe cryptography
 
 ---
 
