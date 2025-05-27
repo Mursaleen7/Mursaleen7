@@ -8,26 +8,22 @@
 
 # 💻 Tech Stack:
 
-![alt text](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
- ![alt text](https://img.shields.io/badge/bash-%234EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
- ![alt text](https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
- ![alt text](https://img.shields.io/badge/html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
- ![alt text](https://img.shields.io/badge/css3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
- ![alt text](https://img.shields.io/badge/linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black)
- ![alt text](https://img.shields.io/badge/windows-%230078D6?style=for-the-badge&logo=windows&logoColor=white)
+# 💻 Tech Stack:
 
-![alt text](https://img.shields.io/badge/git-%23F05033?style=for-the-badge&logo=git&logoColor=white)
- ![alt text](https://img.shields.io/badge/github-%23121011?style=for-the-badge&logo=github&logoColor=white)
- ![alt text](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
- ![alt text](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=sqlite&logoColor=white)
- ![alt text](https://img.shields.io/badge/Docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white)
- ![alt text](https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-%23007ACC?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)  
 
-![alt text](https://img.shields.io/badge/Wireshark-%231679A7?style=for-the-badge&logo=wireshark&logoColor=white)
- ![alt text](https://img.shields.io/badge/Nmap-E44D26?style=for-the-badge&logo=nmap&logoColor=white)
- ![alt text](https://img.shields.io/badge/OWASP%20Top%2010-black?style=for-the-badge&logo=owasp&logoColor=white)
- ![alt text](https://img.shields.io/badge/Virtualization-%23183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
- ![alt text](https://img.shields.io/badge/Firewalls-CE2029?style=for-the-badge&logo=pfsense&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-%2300C6B7?style=for-the-badge&logo=fastapi&logoColor=white) ![Flutter](https://img.shields.io/badge/flutter-%2302569B?style=for-the-badge&logo=flutter&logoColor=white)  
+
+![Docker](https://img.shields.io/badge/docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![gRPC](https://img.shields.io/badge/gRPC-%23009CDE?style=for-the-badge&logo=grpc&logoColor=white) ![Serverless Framework](https://img.shields.io/badge/serverless-%23FD5750?style=for-the-badge&logo=serverless&logoColor=white)  
+
+![GitHub Actions](https://img.shields.io/badge/github_actions-%232671E5.svg?style=for-the-badge&logo=github-actions&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)  
+
+![AWS](https://img.shields.io/badge/aws-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GCP](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230073C8?style=for-the-badge&logo=microsoft-azure&logoColor=white)  
+
+![Prometheus](https://img.shields.io/badge/prometheus-%23E6522C?style=for-the-badge&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800?style=for-the-badge&logo=grafana&logoColor=white) ![Istio](https://img.shields.io/badge/istio-%23D43D1F?style=for-the-badge&logo=istio&logoColor=white) ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-%23DD3333?style=for-the-badge&logo=opentelemetry&logoColor=white)  
+
+![Nmap](https://img.shields.io/badge/nmap-7CA982?style=for-the-badge&logo=nmap&logoColor=white) ![Wireshark](https://img.shields.io/badge/wireshark-0D52A1?style=for-the-badge&logo=wireshark&logoColor=white) ![Metasploit](https://img.shields.io/badge/metasploit-FF3B3F?style=for-the-badge&logo=metasploit&logoColor=white) ![Burp Suite](https://img.shields.io/badge/burp%20suite-EB7100?style=for-the-badge&logo=portswigger&logoColor=white) ![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-00ACD7?style=for-the-badge&logo=owasp&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 
 ---
 
