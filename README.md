@@ -16,9 +16,14 @@
 
 <p align="center">
   <a href="https://mursaleensakoskar.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Site-black?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio">
+    <img
+      src="https://img.shields.io/badge/🌐%20Visit%20My%20Site-black?style=for-the-badge&logo=netlify&logoColor=white"
+      alt="Portfolio"
+      width="400"
+    />
   </a>
 </p>
+
 
 
 
