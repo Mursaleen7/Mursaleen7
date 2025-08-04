@@ -16,7 +16,7 @@
 
 ## 📫 Let’s Connect!
 
-- 🌍 [LinkedIn](https://linkedin.com/in/mursaleen-sakoskar) 
+- 🌍 LinkedIn: [mursaleen-sakoskar](https://linkedin.com/in/mursaleen-sakoskar) 
 - 📧 Email: [mursaleensakoskar@gmail.com](mailto:mursaleensakoskar@gmail.com)  
 - 🔗 Website: [mursaleensakoskar.netlify.app](http://mursaleensakoskar.netlify.app) 
 
