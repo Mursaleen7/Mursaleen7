@@ -16,8 +16,8 @@
 
 ## 📫 Let’s Connect!
 
-[![LinkedIn](https://img.shields.io/badge/🌍-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)  
-[![Email](https://img.shields.io/badge/📧-Email-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shafaqmandha@gmail.com)  
+🌍 LinkedIn: 
+📧 Email: mursaleensakoskar@gmail.com  
   
 👉 [Visit my portfolio here →](https://mursaleensakoskar.netlify.app)
 
