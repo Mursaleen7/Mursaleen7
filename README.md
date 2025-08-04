@@ -18,7 +18,7 @@
 
 - 🌍 [LinkedIn](https://www.linkedin.com/in/mursaleensakoskar/)  
 - 📧 Email: [mursaleensakoskar@gmail.com](mailto:mursaleensakoskar@gmail.com)  
-- 🔗 Website: [[mursaleensakoskar.github.io](http://mursaleensakoskar.netlify.app)]  
+- 🔗 Website: [mursaleensakoskar.netlify.app](http://mursaleensakoskar.netlify.app) 
 
 
 
