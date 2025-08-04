@@ -16,10 +16,10 @@
 
 ## 📫 Let’s Connect!
 
-🌍 LinkedIn: 
-📧 Email: mursaleensakoskar@gmail.com  
-  
-👉 [Visit my portfolio here →](https://mursaleensakoskar.netlify.app)
+🌍 [LinkedIn](https://www.linkedin.com/in/mursaleensakoskar/)  
+📧 [Email](mailto:mursaleensakoskar@gmail.com)  
+🔗 [Website]([https://mursaleensakoskar.github.io/](https://mursaleensakoskar.netlify.app))  
+
 
 
 
