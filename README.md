@@ -1,11 +1,14 @@
 # Hello Everyone! I’m Mursaleen Sakoskar 👋🏼
-🔐 Final-year CS (Cybersecurity) student at Carleton, sharpening offensive-security & cloud-hardening skills
 
-💻 Full-stack developer building RedditPulse (AI product-review SaaS) and a neuromorphic/edge-AI chip benchmarking platform
+I break and build secure systems. 🔐🛠️ After two SOC/IT security internships (alerts, vuln scans, IR playbooks).
 
-🛠️ Enjoy architecting secure, scalable systems with Python | Rust | Go | TypeScript | Kubernetes | Terraform
+What I’ve done:
 
-🧪 Currently diving into NeuroBench tasks, container escapes, and quantum-safe cryptography
+📊 Tuned Splunk to catch multi‑cloud C2 traffic, wrote custom SPL detections, and cut false positives.
+🔎 Ran Nessus/Wireshark triage, ticketed findings, and guided remediation with IT.
+🧪 Explored container escapes, NeuroBench workloads, and quantum‑safe crypto implementations.
+What’s next (cert roadmap):
+🎯 CompTIA Security+ → eJPT → Splunk Core User → OSCP → GCIA/CRTO for deeper blue/red depth.
 
 ---
 
