@@ -2,17 +2,18 @@
 
 I break and build secure systems. 🔐🛠️ After two SOC/IT security internships (alerts, vuln scans, IR playbooks).
 
-What I’ve done:
+## What I’ve done:
+- 📊 Tuned Splunk to catch multi-cloud C2 traffic, wrote custom SPL detections, and cut false positives.
+- 🔎 Ran Nessus/Wireshark triage, ticketed findings, and guided remediation with IT.
+- 🧪 Explored container escapes, NeuroBench workloads, and quantum-safe crypto implementations.
 
-📊 Tuned Splunk to catch multi‑cloud C2 traffic, wrote custom SPL detections, and cut false positives.
+## What’s next (cert roadmap):
+- 🎯 CompTIA Security+
+- 🛡️ eJPT
+- 🔍 Splunk Core User
+- 🥋 OSCP
+- 🌐 GCIA / CRTO for deeper blue/red depth
 
-🔎 Ran Nessus/Wireshark triage, ticketed findings, and guided remediation with IT.
-
-🧪 Explored container escapes, NeuroBench workloads, and quantum‑safe crypto implementations.
-
-What’s next (cert roadmap):
-
-🎯 CompTIA Security+ → eJPT → Splunk Core User → OSCP → GCIA/CRTO for deeper blue/red depth.
 
 ---
 
