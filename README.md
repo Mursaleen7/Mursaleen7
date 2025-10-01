@@ -2,7 +2,7 @@
 
 ## 🌐 About Me
 
-I’m a **4th-year Computer Science student** at Carleton University (Co-op program) passionate about building **secure, scalable, and intelligent systems**.
+I’m a **Final year Computer Science student** at Carleton University (Co-op program) passionate about building **secure, scalable, and intelligent systems**.
 
 My journey has been a blend of **academic rigor and real-world problem solving**:
 
