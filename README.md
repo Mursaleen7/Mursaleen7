@@ -1,7 +1,5 @@
 # 👋 Hi, I’m Mursaleen Sakoskar
 
----
-
 ## 🌐 About Me
 
 I’m a **4th-year Computer Science student** at Carleton University (Co-op program) passionate about building **secure, scalable, and intelligent systems**.
