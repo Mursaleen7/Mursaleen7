@@ -8,9 +8,7 @@ My journey has been a blend of **academic rigor and real-world problem solving**
 
 * My internships & projects have given me hands-on exposure to **automation, infrastructure, and systems-level development**.
 * Interested in red team vs. blue team approaches, understanding both attack strategies and defense mechanisms.
-* Strong foundations in **operating systems, networking, containers, and security**, with hands-on work in **Ansible, Podman, and Linux-based automation**.
-
-I enjoy combining **deep technical problem-solving** with a **security-first mindset**, whether that’s securing cloud workloads, designing resilient database architectures, or exploring **next-gen AI chips and neuromorphic systems**.
+* I enjoy combining **deep technical problem-solving** with a **security-first mindset**, whether that’s securing cloud workloads, designing resilient database architectures, or exploring **next-gen AI chips and neuromorphic systems**.
 
 ---
 
