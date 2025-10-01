@@ -1,8 +1,5 @@
 # 👋 Hi, I’m Mursaleen Sakoskar
 
-💻 **Computer Science @ Carleton University** | 📍 Ottawa, Canada
-🔒 **Cybersecurity Enthusiast** | 🤖 **ML & Systems Builder** | 🚀 **Startup Mindset**
-
 ---
 
 ## 🌐 About Me
