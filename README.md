@@ -1,19 +1,32 @@
-# Hello Everyone! I’m Mursaleen Sakoskar 👋🏼
+# 👋 Hi, I’m Mursaleen Sakoskar
 
-I break and build secure systems. 🔐🛠️ After two SOC/IT security internships (alerts, vuln scans, IR playbooks).
+💻 **Computer Science @ Carleton University** | 📍 Ottawa, Canada
+🔒 **Cybersecurity Enthusiast** | 🤖 **ML & Systems Builder** | 🚀 **Startup Mindset**
 
-## What I’ve done:
-- 📊 Tuned Splunk to catch multi-cloud C2 traffic, wrote custom SPL detections, and cut false positives.
-- 🔎 Ran Nessus/Wireshark triage, ticketed findings, and guided remediation with IT.
-- 🧪 Explored container escapes, NeuroBench workloads, and quantum-safe crypto implementations.
+---
 
-## What’s next (cert roadmap):
-- 🎯 CompTIA Security+
-- 🛡️ eJPT
-- 🔍 Splunk Core User
-- 🥋 OSCP
-- 🌐 GCIA / CRTO for deeper blue/red depth
+## 🌐 About Me
 
+I’m a **4th-year Computer Science student** at Carleton University (Co-op program) passionate about building **secure, scalable, and intelligent systems**.
+
+My journey has been a blend of **academic rigor and real-world problem solving**:
+
+* Currently working at **Nokia (Co-op)**, where I focus on **automation, infrastructure, and systems-level development**.
+* Strong foundations in **operating systems, networking, containers, and security**, with hands-on work in **Ansible, Podman, and Linux-based automation**.
+* Familiar with **secure software design**, **network defense**, and **system hardening**.
+* Exploring the intersection of **AI + cybersecurity**.
+
+I enjoy combining **deep technical problem-solving** with a **security-first mindset**, whether that’s securing cloud workloads, designing resilient database architectures, or exploring **next-gen AI chips and neuromorphic systems**.
+
+---
+
+## 🌟 Beyond Tech
+
+I’m equally curious about:
+
+* **Entrepreneurship** → exploring B2B SaaS & AI-powered consumer products.
+* **Systems thinking** → how operating systems, networks, and hardware interact to shape the future of computing.
+* **Continuous learning** → whether it’s chess (Queen’s Gambit theory 🏰), or researching cybersecurity concepts.
 
 ---
 
