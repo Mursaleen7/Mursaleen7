@@ -1,14 +1,23 @@
 # 👋 Hi, I’m Mursaleen Sakoskar
 
-## 🌐 About Me
+### 🛡️ Security-First Software Engineer
+**Ottawa, ON** | *B.Sc. Computer Science (Cybersecurity Stream), Carleton University*
 
-I’m a **Final year Computer Science student** at Carleton University (Co-op program) passionate about building **secure, scalable, and intelligent systems**.
+I engineer resilient systems at the intersection of **infrastructure automation**, **cloud security**, and **offensive operations**.
 
-My journey has been a blend of **academic rigor and real-world problem solving**:
+My focus is shifting the paradigm from "patching later" to "secure by design." I have operational experience in enterprise IAM (Keycloak), threat analysis (Splunk), and distributed system resilience.
 
-* My internships & projects have given me hands-on exposure to **automation, infrastructure, and systems-level development**.
-* Interested in red team vs. blue team approaches, understanding both attack strategies and defense mechanisms.
-* I enjoy combining **deep technical problem-solving** with a **security-first mindset**, whether that’s securing cloud workloads, designing resilient database architectures, or exploring **next-gen AI chips and neuromorphic systems**.
+---
+
+### 🧠 Technical Philosophy
+* **The Adversarial Mindset:** Understanding attack vectors to architect impenetrable defenses.
+* **Systems Thinking:** From high-level cloud architecture (AWS/GCP) down to the metal (AI Hardware).
+* **Automation:** Eliminating toil through rigorous IaC and CI/CD security pipelines.
+
+### ⚡ Core Competencies
+* **Security & Ops:** Cloud Security Posture Management, IAM Integration, Threat Detection.
+* **Development:** Scalable Backend Systems, Secure API Design.
+* **Research:** Next-Gen AI Chips, Neuromorphic Computing, Vulnerability Analysis.
 
 ---
 
